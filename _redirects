@@ -1,0 +1,19 @@
+# --- .html 付き旧URL → クリーンURL（307→301に固定 / SEO評価伝播のため）---
+/about.html                       /about                       301
+/privacy.html                     /privacy                     301
+/index.html                       /                            301
+
+/fanza-ranking.html               /fanza-ranking               301
+/genre-osusume.html               /genre-osusume               301
+/fanza-mihoudai-osusume.html      /fanza-mihoudai-osusume      301
+/adult-vod-muryou-taiken.html     /adult-vod-muryou-taiken     301
+/fanza-kaiyaku.html               /fanza-kaiyaku               301
+/adult-douga-anzen.html           /adult-douga-anzen           301
+/mgs-douga-kuchikomi.html         /mgs-douga-kuchikomi         301
+/fanza-vs-mgs.html                /fanza-vs-mgs                301
+/adult-vod-erabikata.html         /adult-vod-erabikata         301
+/fanza-mihoudai-jukujo.html       /fanza-mihoudai-jukujo       301
+/adult-vod-kurekashi-nashi.html   /adult-vod-kurekashi-nashi   301
+/mgs-prestige-ninki-joyuu.html    /mgs-prestige-ninki-joyuu    301
+/vod-anonymous.html               /vod-anonymous               301
+/gaishutsu-adult-douga.html       /gaishutsu-adult-douga       301
